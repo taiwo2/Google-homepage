@@ -1,2 +1,5 @@
-h1{margin-left: 20px;}
-nav{margin-left: 30PX;}
+h1{margin-left: 500px;
+color: blue; display:"flexbox";}
+body{background-color: aqua;}
+nav{display: inline;
+display: flex; color: blueviolet;}
