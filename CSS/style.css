@@ -1,5 +1,7 @@
-h1{margin-left: 500px;
+h1{margin-left: 400px;
 color: blue; display:"flexbox";}
 body{background-color: aqua;}
 nav{display: inline;
 display: flex; color: blueviolet;}
+.nav_{display: inline; margin-left: 800px;
+display: "flexbox";}
